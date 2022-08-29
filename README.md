@@ -114,5 +114,5 @@ A solução deve:
 - estar documentada.
 
 Como esses requisitos serão cumpridos, você que decide. Você não precisa se prender a nenhuma solução que já exista.
-[Documentação](https://github.com/jbrun0r/List-app-Flutter/blob/APK/app-release.apk) 
+[Documentação](https://github.com/jbrun0r/Test-Tecnico-Apple-Academy/wiki/Documenta%C3%A7%C3%A3o) 
 
